@@ -5,56 +5,55 @@
       "title": "hello"
     }
   ],
-     "profile": {
-    "name": "ui-dev",
-    "password": "pass",
-    "token": "112233",
-    "role": "admin"
+  "profile": {
+  "name": "ui-dev",
+  "password": "pass",
+  "token": "112233",
+  "role": "admin"
   },
-     "country":{
-       "name": "Bulgaria",
-       "mcc": 244,
-       "usage": 1000
-      },
-     "country":{
-        "name": "Greece",
-        "mcc": 244,
-        "usage": 1000
-      },
-     "operator":{
-       "country":{
-         "name": "Bulgaria",
-         "mcc": 244
-       },
-       "name":"Mobiltel",
-       "usage": 10000.0
+  "country":{
+  "name": "Bulgaria",
+  "mcc": 244,
+  "usage": 1000
+  },
+  "country":{
+  "name": "Greece",
+  "mcc": 244,
+  "usage": 1000
+  },
+  "operator":{
+  "country":{
+   "name": "Bulgaria",
+   "mcc": 244
+  },
+  "name":"Mobiltel",
+  "usage": 10000.0
 
-     },
-     "operator":{
-       "country":{
-         "name": "Bulgaria",
-         "mcc": 244
-       },
-       "name":"Vivacom",
-       "usage": 300.0
-     },
-     "operator":{
-       "country":{
-         "name": "Bulgaria",
-         "mcc": 244
-       },
-       "name":"telenor",
-       "usage": 3200.0
+  },
+  "operator":{
+  "country":{
+   "name": "Bulgaria",
+   "mcc": 244
+  },
+  "name":"Vivacom",
+  "usage": 300.0
+  },
+  "operator":{
+  "country":{
+   "name": "Bulgaria",
+   "mcc": 244
+  },
+  "name":"telenor",
+  "usage": 3200.0
 
-     },
-     "customer":{
-         "name":"pesh",
-         "country":"bulgaria",
-         "usage": 10000.0,
-     },
-     "customer":{
-        "name":"gosh",
-        "country":"bulgaria",
-        "usage": 10000.0
-
+  },
+  "customer":{
+   "name":"pesh",
+   "country":"bulgaria",
+   "usage": 10000.0,
+  },
+  "customer":{
+  "name":"gosh",
+  "country":"bulgaria",
+  "usage": 10000.0
 }
