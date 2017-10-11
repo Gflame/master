@@ -5,26 +5,22 @@
       "title": "hello"
     }
   ],
-  "profile": {
+     "profile": {
     "name": "ui-dev",
     "password": "pass",
     "token": "112233",
     "role": "admin"
   },
-  "countrys":
-  {
-    "country": {
+     "country":{
        "name": "Bulgaria",
        "mcc": 244,
        "usage": 1000
-     },
-     "country": {
+      },
+     "country":{
         "name": "Greece",
         "mcc": 244,
         "usage": 1000
-      }
- },
-   "operators":{
+      },
      "operator":{
        "country":{
          "name": "Bulgaria",
@@ -41,7 +37,6 @@
        },
        "name":"Vivacom",
        "usage": 300.0
-
      },
      "operator":{
        "country":{
@@ -51,18 +46,15 @@
        "name":"telenor",
        "usage": 3200.0
 
-     }
-   },
-   "customers":{
+     },
      "customer":{
          "name":"pesh",
          "country":"bulgaria",
-         "usage": 10000.0
+         "usage": 10000.0,
      },
      "customer":{
         "name":"gosh",
         "country":"bulgaria",
         "usage": 10000.0
-    }
 
 }
