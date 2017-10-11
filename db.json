@@ -6,6 +6,30 @@
     }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "ui-dev",
+    "password": "pass",
+    "token": "112233",
+    "role": "admin"
+  },
+  "countrys": {
+    "country": {
+     "name": "Bulgaria",
+     "mcc": 244
+     },
+     "usage": 1000
+   },
+   "operator":{
+     "country":{
+       "name": "Bulgaria",
+       "mcc": 244
+     },
+     "name":"Mobiltel",
+     "usage": 10000.0
+
+   },
+   "customer":{
+     "name":"pesh",
+     "country":"bulgaria",
+     "usage": 10000.0
+   }
 }
