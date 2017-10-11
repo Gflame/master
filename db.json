@@ -5,13 +5,13 @@
       "title": "hello"
     }
   ],
-  "profile": {
+  "profile": [{
     "name": "ui-dev",
     "password": "pass",
     "token": "112233",
     "role": "admin"
-  },
-  "countrys":{
+  }],
+  "countrys":[{
     "country":{
        "name": "Bulgaria",
        "mcc": 244,
@@ -22,8 +22,8 @@
         "mcc": 244,
         "usage": 1000
       }
- },
-   "operators":{
+ }],
+   "operators":[{
      "operator":{
        "country":{
          "name": "Bulgaria",
@@ -51,8 +51,8 @@
        "usage": 3200.0
 
      }
-   },
-   "customers":{
+   }],
+   "customers":[{
      "customer":{
          "name":"pesh",
          "country":"bulgaria",
@@ -63,5 +63,5 @@
         "country":"bulgaria",
         "usage": 10000.0
     }
-   }
+   }]
 }
