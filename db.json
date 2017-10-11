@@ -1,11 +1,28 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ [
+   {
+   "country":{
+      "name":"Buglaria",
+      "mcc": 244
+       },
+      "usage": 50000,
+      "fromDate": 17.08.2017
+   },
+   {
+   "operator":{
+      "country": "Buglaria",
+      "name": "Vivacom",
+      "mcc": 244
+       },
+      "usage": 15000,
+      "fromDate": 17.08.2017
+   },
+   {
+   "customer":{
+      "country": "Buglaria",
+      "name": "Pesho",
+      "mcc": 244
+       },
+      "usage": 15000,
+      "fromDate": 17.08.2017
+   }
+]
