@@ -26,7 +26,17 @@
      "name":"Mobiltel",
      "usage": 10000.0
 
-   },
+   }
+   "operator":{
+     "country":{
+       "name": "Bulgaria",
+       "mcc": 244
+     },
+     "name":"Vivacom",
+     "usage": 300.0
+
+   }
+   ,
    "customer":{
      "name":"pesh",
      "country":"bulgaria",
