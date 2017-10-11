@@ -3,8 +3,8 @@
     {
       "id": 1,
       "title": "hello"
-    }
-  ],
+    },
+],
   "profile": {
   "name": "ui-dev",
   "password": "pass",
@@ -28,7 +28,6 @@
   },
   "name":"Mobiltel",
   "usage": 10000.0
-
   },
   "operator":{
   "country":{
@@ -55,5 +54,6 @@
   "customer":{
   "name":"gosh",
   "country":"bulgaria",
-  "usage": 10000.0
+  "usage": 10000.0}
+
 }
