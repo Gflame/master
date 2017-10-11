@@ -6,18 +6,6 @@
     }
   ],
   "profile": {
-    "name": "ui-dev",
-    "password": "pass",
-    "token": "112233",
-    "role": "admin"
-  },
-   {
-     "country":{
-        "name": "Bulgaria",
-        "mcc": 244,
-      },
-    "usage": 1000
-    }
-
-
+    "name": "typicode"
+  }
 }
